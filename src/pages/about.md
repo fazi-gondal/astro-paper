@@ -3,34 +3,32 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Hi my name is
+# Muhammad Faizan
+## A Full-stack Developer
+I am a Full-Stack Developer with a passion for delivering exceptional results.
+With my expertise in React,ReactNative and NextJS on the frontend, and Strapi cms, Sanity cms, NodeJS, and Express on the backend, I bring a unique combination of technical skills and creative problem-solving to every project I work on.
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/dev.webp" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## Who am I?
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+With 2 years of comprehensive experience in web and app development, I have honed my skills in both frontend and backend development. In addition to my hands-on experience in web and app development, my skills has also played a critical role in providing a strong foundation for my career.
 
-## Features
+## Here is my educational background.
+- ICS (Phy)
+  - Studied computer science, software development, DevOps
+- ADP A.F from University of Central Punjab
+  - Studied Accounting and Finance
+- Web & App Development
+  - Code With Harry & Thapa Technical | 2021
+- Full-Stack Web Developer In React & Nextjs
+- Full-Stack App Developer in React-Native
+- Full-Stack App Developer in Flutter
+# Contact
+Let's be awesome together!
+As a dev, I am driven by my love for coding and my desire for new challenges. If you have opportunities for collaboration or want to build something amazing, don't hesitate to contact me!
 
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+<button style="width: 200px; height: 50px; background-color: rgb(255,107,1); border-radius: 5px; -webkit-text-fill-color: #ffffff;"><a href="https://wa.me/message/5IWKM7B67T4KE1">Chat On WhatsApp</button>
