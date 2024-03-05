@@ -4,7 +4,7 @@ pubDatetime: 2024-03-05T15:30:00.000Z
 title: Subscription require two-year cost 2400
 slug: subscription-require-two-year-cost-2400
 featured: true
-ogImage: ../../assets/images/AstroPaper-v4.png
+ogImage: ../../assets/images/post.png
 tags:
   - accounting
 
