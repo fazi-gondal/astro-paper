@@ -7,7 +7,7 @@ featured: true
 ogImage: ../../assets/images/AstroPaper-v4.png
 tags:
   - accounting
-  
+
 description: "A Subscription Require two-year communited cost 2400(total) Which must be pay."
 ---
 
@@ -46,19 +46,19 @@ description: "A Subscription Require two-year communited cost 2400(total) Which 
 
 ### Cash Basis Balance Sheet
 
-| Assets      | Rs            | Laibilties  | Rs            |
-|:-----------:|:-------------:|:-----------:|:-------------:|
-| Cash 600    | 600           | Capital 600 | 600           |
-| Profit 1620 | 1620          | Profit 1620 | 1620          |
-| Total       | 600+1620=2220 | Total       | 600+1620=2220 |
+| Assets      | Rs   | Laibilties  | Rs   |
+|:-----------:|:----:|:-----------:|:----:|
+| Cash 600    | 600  | Capital 600 | 600  |
+| Profit 1620 | 1620 | Profit 1620 | 1620 |
+| Total       | 2220 | Total       | 2220 |
 
 ### Accural Basis Balance Sheet
 
-| Assets      | Rs            | labibilties             | Rs             |
-|:-----------:|:-------------:|:-----------------------:|:--------------:|
-| Cash 600    | 600           | Capital 600+ Profit 540 | 1140           |
-| Profit 1740 | 1740          | unearnd service         | 1200           |
-| Total       | 600+1740=2340 | Total                   | 1140+1200=2340 |
-
+| Assets      | Rs   | labibilties     | Rs   |
+|:-----------:|:----:|:---------------:|:----:|
+| Cash 600    | 600  | Capital 600     | 600  |
+|             |      | Profit 540      | 540  |
+| Profit 1740 | 1740 | unearnd service | 1200 |
+| Total       | 2340 | Total           | 2340 |
 
 <button style="width: 150px; height: 50px; background-color: rgb(255,107,1); border-radius: 5px; -webkit-text-fill-color: #ffffff;"><a href="/assets/af.pdf">Download Pdf</button>
