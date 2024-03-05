@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "", // replace this with your deployed domain
+  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
   author: "Faizan Gondal",
   desc: "I am a Full-Stack Developer with a passion for delivering exceptional results.With my expertise in React,ReactNative and NextJS on the frontend, and Strapi cms, Sanity cms, NodeJS, and Express on the backend, I bring a unique combination of technical skills and creative problem-solving to every project I work on.",
   title: "Code With fazi",
