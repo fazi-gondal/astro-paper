@@ -54,11 +54,11 @@ description: "A Subscription Require two-year communited cost 2400(total) Which 
 
 ### Accural Basis Balance Sheet
 
-| Assets      | Rs   | labibilties     | Rs   |
-|:-----------:|:----:|:---------------:|:----:|
-| Cash 600    | 600  | Capital 600     | 600  |
-|             |      | Profit 540      | 540  |
-| Profit 1740 | 1740 | unearnd service | 1200 |
-| Total       | 2340 | Total           | 2340 |
+| Assets      | Rs   | labibilties | Rs   |
+|:-----------:|:----:|:-----------:|:----:|
+| Cash 600    | 600  | Capital 600 | 600  |
+|             |      | Profit 540  | 540  |
+| Profit 1740 | 1740 | uneard      | 1200 |
+| Total       | 2340 | Total       | 2340 |
 
 <button style="width: 150px; height: 50px; background-color: rgb(255,107,1); border-radius: 5px; -webkit-text-fill-color: #ffffff;"><a href="/assets/af.pdf">Download Pdf</button>
