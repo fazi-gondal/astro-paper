@@ -1,8 +1,8 @@
 ---
 author: Faizan Gondal
-pubDatetime: 2024-05-08T02:30:00.000Z
-title: Business.Law Mcq's
-slug: business.law-mcq's
+pubDatetime: 2024-05-08T15:30:00.000Z
+title: B.Law Mcq's
+slug: b.law-mcq's
 featured: true
 ogImage: ../../assets/images/b.law.png
 tags:
