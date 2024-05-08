@@ -8,7 +8,6 @@ ogImage: ../../assets/images/b.law.png
 tags:
   - b.law
 description: B.Law Mcq's By Hira Arshad.
-subtitle: "B.Law Mcq's By Hira Arshad."
 ---
 
 # Choose the most appropriate option. Overwriting and cutting is not allowed.
