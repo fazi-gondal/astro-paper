@@ -1,13 +1,16 @@
 ---
 author: Faizan Gondal
-pubDatetime: 2024-05-08T15:30:00.000Z
-title: B.Law Mcq's
-slug: b.law-mcq's
+pubDatetime: 2024-05-08T02:30:00.000Z
+title: Business.Law Mcq's
+slug: business.law-mcq's
 featured: true
 ogImage: ../../assets/images/b.law.png
 tags:
-  - b.law
-description: B.Law Mcq's By Hira Arshad.
+
+- b.law
+
+description: "Business Law Mcq's By Hira Arshad."
+
 ---
 
 # Choose the most appropriate option. Overwriting and cutting is not allowed.
