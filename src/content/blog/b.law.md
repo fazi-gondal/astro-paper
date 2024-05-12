@@ -1,6 +1,6 @@
 ---
 author: Faizan Gondal
-pubDatetime: 2024-05-08T15:30:00.000Z
+pubDatetime: 2024-05-08T19:30:00.000Z
 title: B.Law Mcq's
 slug: b.law-mcq's
 featured: true
