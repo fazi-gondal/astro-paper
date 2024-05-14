@@ -1,18 +1,17 @@
 ---
 author: Faizan Gondal
 pubDatetime: 2024-05-08T19:30:00.000Z
+modDatetime: 2024-05-14
 title: B.Law Mcq's
+ogImage: ../../assets/images/b.law.png
 slug: b.law-mcq's
 featured: true
-ogImage: ../../assets/images/b.law.png
+draft: false
 tags:
-
-- b.law
-
-description: "Business Law Mcq's By Hira Arshad."
-
+  - b.law
+  - business law
+description: Business Law Mcq's By Hira Arshad.
 ---
-
 # Choose the most appropriate option. Overwriting and cutting is not allowed.
 
 1. A contract of sale of goods is a contract whereby the seller transfers or agrees to transfer the property: 
