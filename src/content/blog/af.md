@@ -1,16 +1,16 @@
 ---
 author: Faizan Gondal
 pubDatetime: 2024-03-05T15:30:00.000Z
+modDatetime: 2024-05-15
 title: Subscription require two-year cost 2400
+ogImage: //assets/b.law.png
 slug: subscription-require-two-year-cost-2400
 featured: true
-ogImage: ../../assets/images/post.png
+draft: false
 tags:
   - accounting
-
-description: "A Subscription Require two-year communited cost 2400(total) Which must be pay."
+description: A Subscription Require two-year communited cost 2400(total) Which must be pay.
 ---
-
 ## A Subscription Require two-year communited cost 2400(total) Which must be pay.
 
 1. Services cost 600 each year.
