@@ -3,7 +3,7 @@ author: Faizan Gondal
 pubDatetime: 2024-03-05T15:30:00.000Z
 modDatetime: 2024-05-15
 title: Subscription require two-year cost 2400
-ogImage: /images/images/b.law.png
+ogImage: ../../assets/images/b.law.png
 slug: subscription-require-two-year-cost-2400
 featured: true
 draft: false
