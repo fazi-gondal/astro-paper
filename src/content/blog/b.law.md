@@ -9,7 +9,7 @@ draft: false
 tags:
   - b.law
   - business law
-description: Business Law Mcq's By Hira Arshad.
+description: Business Law Mcq's By Pro. Hira Arshad.
 ---
 # Choose the most appropriate option. Overwriting and cutting is not allowed.
 
