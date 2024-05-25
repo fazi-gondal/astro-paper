@@ -1,7 +1,7 @@
 ---
 author: Faizan Gondal
 pubDatetime: 2024-05-08T19:30:00.000Z
-modDatetime: 2024-05-14
+modDatetime: 2024-05-15
 title: Business Law Mcq's By Pro. Hira Arshad
 slug: business-law-mcq's-by-pro-hira-arshad
 featured: true
