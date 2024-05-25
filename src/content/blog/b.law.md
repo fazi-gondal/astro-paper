@@ -7,7 +7,7 @@ slug: business-law-mcq's-by-pro-hira-arshad
 featured: true
 draft: false
 tags:
-  - b.law
+  - b law
   - business law
 description: Business Law Mcq's By Pro. Hira Arshad.
 ---
