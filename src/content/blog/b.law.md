@@ -2,9 +2,9 @@
 author: Faizan Gondal
 pubDatetime: 2024-05-08T19:30:00.000Z
 modDatetime: 2024-05-14
-title: B.Law Mcq's
-ogImage: ../../assets/images/b.law.png
-slug: b.law-mcq's
+title: Business Law Mcq's By Hira Arshad
+ogImage: //post.png
+slug: business-law-mcq's-by-hira-arshad
 featured: true
 draft: false
 tags:
