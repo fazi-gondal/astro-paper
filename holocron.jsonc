@@ -1,0 +1,48 @@
+{
+  "$schema": "https://holocron.so/holocron.json",
+  "siteId": "01K4HM8BQZA6M93M11C8V3V6DB",
+  "name": "astro-paper",
+  "disableEditButton": false,
+  "favicon": {
+    "light": "/favicon.svg",
+    "dark": "/favicon.svg"
+  },
+  "logo": {
+    "light": "https://holocron.so/logo/dark.svg",
+    "dark": "https://holocron.so/logo/light.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Home",
+        "href": "https://holocron.so",
+        "icon": "document"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Get Started",
+      "href": "https://holocron.so/login"
+    }
+  },
+  "footer": {
+    "socials": {
+      "twitter": "https://x.com/__morse",
+      "github": "https://github.com/remorses"
+    },
+    "links": [
+      {
+        "header": "Documentation",
+        "items": [
+          {
+            "label": "Holocron",
+            "href": "https://holocron.so"
+          }
+        ]
+      }
+    ]
+  },
+  "domains": [
+    "astro-paper-9zz2s91s.holocron.live"
+  ]
+}
